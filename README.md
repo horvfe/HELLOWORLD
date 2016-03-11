@@ -1,2 +1,3 @@
 # HELLOWORLD
 Tanulom a GITHUB-ot ...
+... és akkor most ezt kiegészítem ezzel-azzal
